@@ -1,0 +1,13 @@
+runpod_global_volume:
+  base_path: /runpod-volume/models
+  checkpoints: checkpoints
+  clip_vision: clip_vision
+  controlnet: controlnet
+  diffusion_models: diffusion_models
+  embeddings: embeddings
+  loras: loras
+  model_patches: model_patches
+  text_encoders: text_encoders
+  upscale_models: upscale_models
+  vae: vae
+  vae_approx: vae_approx

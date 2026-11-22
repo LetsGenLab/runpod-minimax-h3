@@ -1,0 +1,7 @@
+*
+!Dockerfile
+!custom-nodes.lock
+!install-custom-nodes.sh
+!verify_comfy_nodes.py
+!handler.py
+!extra_model_paths.yaml
